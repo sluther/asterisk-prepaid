@@ -1,0 +1,2 @@
+This asterisk prepaid application handles prepaid calls using PIN or ANI
+authentication. The app uses AgileVoice for balance management.
